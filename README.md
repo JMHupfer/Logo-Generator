@@ -44,3 +44,7 @@ Refer to [https://choosealicense.com/](https://choosealicense.com/).
 - Direct any questions about the repo to me at: jmhupfer@gmail.com.
 
 - You can locate me at my GitHub page as well at: [JMHupfer](https://github.com/JMHupfer/)
+
+## Video Link
+
+ - https://drive.google.com/file/d/1m08s8wvGt_sRFgR87EiWEuhnDXVrXG-z/view
