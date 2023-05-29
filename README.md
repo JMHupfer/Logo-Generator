@@ -47,4 +47,4 @@ Refer to [https://choosealicense.com/](https://choosealicense.com/).
 
 ## Video Link
 
- - <a href="(https://drive.google.com/file/d/1m08s8wvGt_sRFgR87EiWEuhnDXVrXG-z/view)">Logo Generator! :)</a>
+ - <a href="https://drive.google.com/file/d/1m08s8wvGt_sRFgR87EiWEuhnDXVrXG-z/view">Logo Generator! :)</a>
