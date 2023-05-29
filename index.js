@@ -45,7 +45,7 @@
     ]);
 
     // here we are creating a switch case statement (clearner if/then statement) that generates the share being called
-    // please see shape.js where we define the shapes circle, triangle, and square
+    // please see shapes.test.js where we define the shapes circle, triangle, and square and then call each shape in shapes.js
     let logoShape;
     switch (shape) {
       case 'circle':
